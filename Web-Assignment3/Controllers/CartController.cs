@@ -18,7 +18,8 @@ namespace Web_Assignment3.Controllers
         [HttpGet]
         public IActionResult GetAllItems()
         {
-            var items = _cartRepository.GetAllItems();
+            // Perform inner join to retrieve cart data with additional product information
+            var items = _cartRepository.GetAllItemsWithProductInfo();
             return Ok(items);
         }
 
@@ -56,6 +57,20 @@ namespace Web_Assignment3.Controllers
         {
             _cartRepository.DeleteItem(id);
             return NoContent();
+        }
+
+        [HttpDelete]
+        public IActionResult DeleteAllItems()
+        {
+            try
+            {
+                _cartRepository.DeleteAllItems(); // Call method to delete all items from the cart
+                return Ok(new { message = "All items deleted from the cart." });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { error = "An error occurred while deleting items from the cart.", details = ex.Message });
+            }
         }
     }
 }

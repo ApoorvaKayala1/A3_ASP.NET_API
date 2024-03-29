@@ -24,6 +24,16 @@ builder.Services.AddScoped<ICommentRepository, CommentRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactFrontend", builder =>
+    {
+        builder.WithOrigins("http://localhost:3000")
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
 
 var app = builder.Build();
 
@@ -40,6 +50,8 @@ AppContext.SetSwitch("System.Net.Http.UseSocketsHttpHandler", false);
 
 //app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.UseCors("AllowReactFrontend");
 
 app.UseRouting();
 

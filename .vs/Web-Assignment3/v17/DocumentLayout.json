@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\cartwithproductinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\cartwithproductinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\web-assignment3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\web-assignment3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|c:\\users\\apoor\\assignment3-apoorvakayala\\web-assignment3\\web-assignment3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3ED7977E-5CA6-4D93-BECE-EC6D34F36624}|Web-Assignment3\\Web-Assignment3.csproj|solutionrelative:web-assignment3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web-Assignment3\\Controllers\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartWithProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\CartWithProductInfo.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\CartWithProductInfo.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\CartWithProductInfo.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\CartWithProductInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:58:29.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Program.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Program.cs",
+              "RelativeToolTip": "Web-Assignment3\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:27:19.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Order.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:48:36.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Web-Assignment3\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:50:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvx4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:38:35.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:36:56.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:10:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:49:30.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:00:55.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web-Assignment3",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Web-Assignment3.csproj",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Web-Assignment3.csproj",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Web-Assignment3.csproj",
+              "RelativeToolTip": "Web-Assignment3\\Web-Assignment3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T20:02:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\User.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:08:38.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Web-Assignment3\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:39:01.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Cart.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:37:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:08:55.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web-Assignment3\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:10:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:29:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:49:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Web-Assignment3\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:15:33.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\appsettings.json",
+              "RelativeDocumentMoniker": "Web-Assignment3\\appsettings.json",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\appsettings.json",
+              "RelativeToolTip": "Web-Assignment3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T02:51:20.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Web-Assignment3\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:50:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Comment.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:12:02.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:12:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\Class.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Controllers\\Class.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Controllers\\Class.cs",
+              "RelativeToolTip": "Web-Assignment3\\Controllers\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:14:54.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Web-Assignment3\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:37:39.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web-Assignment3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAABRwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T00:05:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Web-Assignment3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\apoor\\Assignment3-ApoorvaKayala\\Web-Assignment3\\Web-Assignment3\\Models\\Product.cs",
+              "RelativeToolTip": "Web-Assignment3\\Models\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:28:04.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
