@@ -46,5 +46,37 @@ namespace Web_Assignment3.Repositories
                 _context.SaveChanges();
             }
         }
+
+        public void DeleteAllItems()
+        {
+            try
+            {
+                _context.Cart.RemoveRange(_context.Cart); // Remove all items from the Cart table
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error deleting all items from the cart.", ex);
+            }
+        }
+
+        public IEnumerable<CartWithProductInfo> GetAllItemsWithProductInfo()
+        {
+            return _context.Cart
+                .Join(_context.Products,
+                    cartItem => cartItem.Product_Id,
+                    product => product.Id,
+                    (cartItem, product) => new CartWithProductInfo
+                    {
+                        Id = cartItem.Id,
+                        UserId = cartItem.User_Id, 
+                        ProductId = cartItem.Product_Id,
+                        Quantity = cartItem.Quantity,
+                        ProductName = product.Name,
+                        ProductImage = product.Image,
+                        ProductPricing = product.Pricing
+                    })
+                .ToList();
+        }
     }
 }

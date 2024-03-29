@@ -9,5 +9,7 @@ namespace Web_Assignment3.Repositories
         void AddItem(Cart item);
         void UpdateItem(Cart item);
         void DeleteItem(int id);
+        void DeleteAllItems();
+        IEnumerable<CartWithProductInfo> GetAllItemsWithProductInfo();
     }
 }
